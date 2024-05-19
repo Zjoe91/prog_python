@@ -1,0 +1,14 @@
+[
+    {
+        "name": "pantelis",
+        "age": 23
+ 
+    },
+    {
+        "name": "paula",
+        "age": 23,
+        "is_drinking": true
+
+    }
+
+]
